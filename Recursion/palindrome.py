@@ -3,4 +3,4 @@ s="malayalam"
 if s==s[::-1]:
     print("Palindrome")
 else:
-    print("Not Palindrome")
+    print("Not a Palindrome")
